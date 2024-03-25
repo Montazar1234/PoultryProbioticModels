@@ -19,7 +19,7 @@ The code in this repository relies on the following dependencies:
 
 - MiCOM [(version 0.33.2)](https://micom-dev.github.io/micom/)
 - CarveFungi ((https://github.com/SandraCastilloPriego/CarveFungi)
-- Other dependencies (list them here)
+- AutoPACMEN https://github.com/klamt-lab/autopacmen
 
 Please refer to the `requirements.txt` file for the complete list of dependencies and their versions.
 
