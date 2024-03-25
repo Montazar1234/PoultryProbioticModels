@@ -21,24 +21,6 @@ The code in this repository relies on the following dependencies:
 - CarveFungi ((https://github.com/SandraCastilloPriego/CarveFungi)
 - AutoPACMEN https://github.com/klamt-lab/autopacmen
 
-Please refer to the `requirements.txt` file for the complete list of dependencies and their versions.
-
-## Usage
-
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Prepare the input data files and place them in the `data/` directory.
-4. Run the Jupyter Notebook `metabolic_modeling_poultry.ipynb` to reproduce the analysis and generate the results.
-5. Alternatively, run the MiCOM simulation script: `python micom_script.py`
-
-## Data
-
-The input data files used in this study are located in the `data/` directory. The files include:
-
-- `aggregated_relative_abundances.ods`: Metagenomic data of the poultry gut microbiome.
-- `manifest.csv`: Manifest file containing information about the fungal strains.
-- `diet_composition.csv`: Composition of the poultry diets used in the simulations.
-
 
 ## Contact
 
