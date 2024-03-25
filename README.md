@@ -1,4 +1,4 @@
-# Metabolic Modeling of Fungal Probiotics in the Poultry Gut Microbiome
+# Community Modelling & Construction as a predictive tool for determining probiotic efficacy in poultry.
 
 
 ![image](https://github.com/Montazar1234/PoultryProbioticModels/assets/22119956/a2025388-4eca-4367-a4fc-a8c7953e518b)
@@ -18,7 +18,7 @@
 The code in this repository relies on the following dependencies:
 
 - MiCOM [(version 0.33.2)](https://micom-dev.github.io/micom/)
-- CarveFungi ((https://github.com/SandraCastilloPriego/CarveFungi)
+- CarveFungi (https://github.com/SandraCastilloPriego/CarveFungi)
 - AutoPACMEN https://github.com/klamt-lab/autopacmen
 
 
